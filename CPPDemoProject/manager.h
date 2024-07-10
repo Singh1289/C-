@@ -9,5 +9,6 @@ public:
     manager(int, char *, float, float);
     ~manager();
     float cal_netSal();
+
 };
 #endif // MANAGER__H_

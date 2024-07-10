@@ -1,4 +1,5 @@
 
+
 #include<iostream>
 #include<string>
 #include"Triangle.h"
@@ -22,5 +23,5 @@ Triangle::~Triangle()
 
 float Triangle::area()
 {
-    return base*height;
+    return (base*height)/2;
 }

@@ -6,6 +6,7 @@ using namespace std;
 
 Circle::Circle():p()
 {
+
     r=0;
 }
 

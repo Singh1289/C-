@@ -39,8 +39,9 @@
 		<Unit filename="Shape.h" />
 		<Unit filename="Square.cpp" />
 		<Unit filename="Square.h" />
-		<Unit filename="Traingle.cpp" />
-		<Unit filename="Traingle.h" />
+		<Unit filename="Triangle.cpp" />
+		<Unit filename="Triangle.h" />
+		<Unit filename="mainShape.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

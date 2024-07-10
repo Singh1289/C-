@@ -8,7 +8,7 @@ protected:
 public:
     Shape();
     Shape(char*);
-    ~Shape();
+   virtual ~Shape();
     char * getColor();
     void setColor(char *);
     virtual float area()=0;

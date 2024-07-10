@@ -27,25 +27,38 @@
 	"manager.h"
 	<iostream>
 
-1720520550 source:d:\infoway\cpp\cppdemoproject\clerk.cpp
+1720612647 source:c:\users\tushar\downloads\cppdemoproject\cppdemoproject\clerk.cpp
 	<iostream>
 	"clerk.h"
 	<string.h>
 
-1720521112 d:\infoway\cpp\cppdemoproject\clerk.h
+1720612647 c:\users\tushar\downloads\cppdemoproject\cppdemoproject\clerk.h
 	"emp.h"
 
-1720520550 d:\infoway\cpp\cppdemoproject\emp.h
+1720612647 c:\users\tushar\downloads\cppdemoproject\cppdemoproject\emp.h
 
-1720518202 source:d:\infoway\cpp\cppdemoproject\emp.cpp
+1720583505 source:c:\users\tushar\downloads\cppdemoproject\cppdemoproject\emp.cpp
 	<string.h>
 	<iostream>
 	"emp.h"
 
-1720520548 source:d:\infoway\cpp\cppdemoproject\manager.cpp
+1720612647 source:c:\users\tushar\downloads\cppdemoproject\cppdemoproject\manager.cpp
 	"manager.h"
 	<iostream>
 
-1720519942 d:\infoway\cpp\cppdemoproject\manager.h
+1720612645 c:\users\tushar\downloads\cppdemoproject\cppdemoproject\manager.h
 	"emp.h"
+
+1720587136 source:c:\users\tushar\downloads\cppdemoproject\cppdemoproject\salesmanager.cpp
+	"SalesManager.h"
+	<iostream>
+
+1720587150 c:\users\tushar\downloads\cppdemoproject\cppdemoproject\salesmanager.h
+	"manager.h"
+
+1720612329 source:c:\users\tushar\downloads\cppdemoproject\cppdemoproject\main.cpp
+	"emp.h"
+	"clerk.h"
+	"manager.h"
+	<iostream>
 

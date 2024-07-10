@@ -11,7 +11,7 @@ clerk::clerk()
 
 }
 
-clerk::clerk(int en,char *nm,float s,int ot,char *dt) : emp(en,nm,s)
+clerk::clerk(int en,char *nm,float s,int ot,char *dt): emp(en,nm,s)
 {
     cout<<"\n parameterized constructor of clerk";
     overtime = ot;

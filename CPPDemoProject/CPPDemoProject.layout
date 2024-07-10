@@ -2,39 +2,39 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="clerk.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+	<File name="manager.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="156" topLine="0" />
+			<Cursor1 position="63" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="clerk.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+	<File name="main.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="303" topLine="0" />
+			<Cursor1 position="1305" topLine="35" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+	<File name="emp.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="321" topLine="0" />
+			<Cursor1 position="89" topLine="9" />
 		</Cursor>
 	</File>
-	<File name="manager.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+	<File name="manager.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="221" topLine="0" />
+			<Cursor1 position="255" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="emp.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+	<File name="emp.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="179" topLine="0" />
+			<Cursor1 position="216" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="manager.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+	<File name="clerk.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="236" topLine="0" />
+			<Cursor1 position="234" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="emp.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="15" zoom_2="0">
+	<File name="clerk.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="89" topLine="0" />
+			<Cursor1 position="489" topLine="8" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
